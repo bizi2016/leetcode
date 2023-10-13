@@ -12,3 +12,7 @@
 - 136 Single Number 计数器（差解法）.py（不用异或）
 - 179 Largest Number.py（修改排序函数的排序依据）
 - 704 Binary Search.py（leetcode原始函数不支持递归，就用的循环）
+
+2023年10月13日
+- 1 Two Sum 哈希表.py
+- 1 Two Sum 暴力解（差解法）.py
