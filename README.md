@@ -16,3 +16,6 @@
 2023年10月13日
 - 1 Two Sum 哈希表.py
 - 1 Two Sum 暴力解（差解法）.py
+
+2023年10月14日
+- 1 Two Sum 哈希表 enumerate.py
