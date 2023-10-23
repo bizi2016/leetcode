@@ -34,6 +34,7 @@
 - 162 Find Peak Element
 - 941 Valid Mountain Array
 - 226 Invert Binary Tree
+- 35. Search Insert Position
 
 
 
