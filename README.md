@@ -31,6 +31,8 @@
 - 215 Kth Largest Element in an Array 堆排序
 - 215 Kth Largest Element in an Array 魔改快排
 - 215 Kth Largest Element in an Array 选择排序 超时
+- 162 Find Peak Element
+- 941 Valid Mountain Array
 
 
 
