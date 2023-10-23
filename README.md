@@ -35,6 +35,8 @@
 - 941 Valid Mountain Array
 - 226 Invert Binary Tree
 - 35 Search Insert Position
+- 2 Add Two Numbers
+- 34 Find First and Last Position of Element in Sorted Array
 
 
 
